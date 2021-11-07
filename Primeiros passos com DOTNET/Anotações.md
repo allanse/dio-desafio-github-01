@@ -123,4 +123,54 @@ Aulas:
 
       
 
-3. 
+3. Conhecendo o C#
+
+   - O que é e como funciona o C#:
+
+     - O que é: 
+
+       - linguagem desenvolvida no inicio dos anos 1990;
+       - elegante, orientada a objeto e fortemente tipada;
+       - sintaxe similar a C, C++ ou Java;
+       - Suporta conceitos de encapsulamento, herança e polimorfismo (OO);
+       - Programas são executados no .NET : CLR e Conjunto unificados de bibliotecas de classes;
+       - Compilador é o Roslyn (feito em C# e open source);
+
+     - Como funciona:
+
+       - Codigo-fonte é compilado em uma linguagem intermediária (IL);
+       - Os códigos e recursos de IL são armazenados em um executável chamado assembly e geralmente são .exe ou .dll;
+       - Ao executar o build esses arquivos em linguagem intermediária são gerados;
+       - Quando o programa C# é executado o assembly é carregado na CLR e em seguida é feita a conversão do IL para linguagem de máquina via JIT;
+       - Serviços do CLR:
+         - Garbage Collector;
+         - Exception Handler
+         - Resources Manager;
+       - Imagem explicando o funcionamento do C# :https://qph.fs.quoracdn.net/main-qimg-9e558bc2d949ec048fcaef8ef458c024;
+       - Possuí uma extensa biblioteca de classes que podem ser utilizadas nos projetos;
+
+       
+
+   - Estrutura de programa:
+
+     - organizados em :
+
+       - programas;
+       - namespaces;
+       - tipos;
+       - membros;
+       - assemblies;
+
+     - Programas:
+
+     - Exemplo prático;
+
+       
+
+4. Conhecendo variáveis e Instruções:
+
+5. Classes e objetos essenciais em C#:
+
+6. Trabalhando com structs, interfaces e enums:
+
+7. Uma síntese do que é .NET:
