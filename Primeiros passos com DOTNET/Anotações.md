@@ -96,6 +96,31 @@ Aulas:
 2. Iniciando com .NET
 
    - Preparando o ambiente:
-      - 
+      - Instalar o SDK do DOTNET na versão corrente (5.0.402 em Nov/21);
+      - Instalar o VS Code: https://code.visualstudio.com/
+        - ADD plugins C#, C# extensions;
+
+   - Conhecendo o CLI do .NET:
+
+      - dotnet --help: exibe os commandos possíveis de usar com a CLI;
+      - explicação breve sobre alguns comandos mais utilizados:
+         - add, build, nuget, publish, restore, run, test;
+      - dotnet new --help: help do  comando new;
+
+   - Criando uma aplicação console:
+
+      - dotnet new console -n DigitalInnovationOne;
+      - cd DigitalInnovationOne;
+      - explorer . ;
+      - code . ;
+      - dotnet restore;
+      - dotnet build;
+      - Explicação sobre o program.cs;
+      - dotnet run;
+      - Explicação sobre criação de um novo terminal;
+      - Alteração no código do program.cs para ter um laço de repetições;
+      - Explicação sobre o DOTNET RUN - Sempre deve ser executado na mesma pasta onde está o csproj;
+
+      
 
 3. 
